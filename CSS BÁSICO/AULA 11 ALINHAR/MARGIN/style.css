@@ -1,0 +1,28 @@
+body {
+    background-image:url(patagonia.jpg.jpeg);
+    background-repeat: no-repeat;
+    background-position: 100% 30%;
+    background-attachment: fixed;
+}
+p{
+    color: black;
+    font-size: larger;
+    text-align: center;
+}
+.fotoAnderson-Euripedes{
+    border: 10px solid black;
+    border-radius: 50%;
+    margin-top: 50px;
+    box-shadow: 20px 30px 40px white
+
+    }
+
+    .container{
+        width: 900px;
+        text-align:center ;
+    }
+
+    .profile{
+        text-align: center;
+        margin-bottom: 30px;
+    }

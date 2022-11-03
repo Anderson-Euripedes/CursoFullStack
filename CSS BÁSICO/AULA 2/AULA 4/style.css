@@ -1,0 +1,12 @@
+body {
+    background-image:url(patagonia.jpg.jpeg);
+    background-repeat: no-repeat;
+    background-position: 100% 30%;
+    background-attachment: fixed;
+}
+p{
+    color: black;
+}
+.foto-Anderson-Euripedes{
+    border: 20px silver;
+}
